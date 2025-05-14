@@ -49,17 +49,15 @@ UBook allows users to:
   
 ## Live Link
 
-- **Frontend:** [UBook Frontend](https://ubook.ashusharma.in/) -  https://ubook.ashusharma.in/
-- **Backend (API):** [UBook API](https://ubook-api.ashusharma.in/) - https://ubook-api.ashusharma.in
-
+- **Frontend:** [UBook Frontend](ubook-booking-management-system.vercel.app) -  https://ubook-booking-management-system.vercel.app/
 
 ### Installation
 
 1. **Clone the Repository**
 
    ```bash
-   https://github.com/ashu-sharma07/ubook-wendor.git
-   cd ubook-wendor
+   https://github.com/PRIYA1072/Ubook-Booking-Management-System.git
+   cd Ubook-Booking-Management-System
    
    ## Installation Steps
 
