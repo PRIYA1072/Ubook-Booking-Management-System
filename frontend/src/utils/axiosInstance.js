@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const baseURL = "http://localhost:4055/api/v1";
+export const baseURL = "https://ubook-backend.prathamdev.site/api/v1";
 
 export const axiosInstance = axios.create({
   baseURL: baseURL,
